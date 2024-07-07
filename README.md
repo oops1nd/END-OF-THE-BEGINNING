@@ -4,7 +4,7 @@
 
 The dark corridors of the labyrinth tightly surrounded the hero, confusing his thoughts and direction of movement. The announcer's voice, cold and pitiless, sounded like an echo in the boundless voids, guiding him through unsteady spaces.  “You are moving forward, but where exactly? What do you need here? Perhaps you yourself don’t know the answer to these questions, but you continue to step forward as if this is the only way,” a voice sounded, creating a feeling of confusion and ignorance.
 
-# Начало конца
+# Начало конца [ru]
 
 ## Эпилог
 
